@@ -1,0 +1,24 @@
+body {font-family: Helvetica, sans-serif;
+      text-align: center;}
+p {font-size: 14px;}
+h2 {font-size: 32px;
+    font-weight: bold;}
+h3 {font-size: 23px;
+    font-weight: bold;}
+.top {background-image: url("build.png");}
+.top h1 {font-size: 70px;
+          font-weight: bold;
+          color: white;}
+.top h3 {font-size: 18px;
+            color: white;}
+.top a {color: white;}
+
+#banner {font-size: 23px;
+          font-weight: bold;
+          color: white;
+          background-image: url("build.png");}
+.footer {text-align: left;
+          font-size: 11px;
+          color: white;
+          background-color: dimgray;}
+.footer a {color: white;}
